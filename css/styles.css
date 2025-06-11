@@ -38,16 +38,16 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: rgb(95, 15, 170);
-  --bs-secondary: rgb(167, 26, 96);
+  --bs-primary: #491c74;
+  --bs-secondary: rgb(119, 29, 107);
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 95, 15, 170;
-  --bs-secondary-rgb: 167,26, 96;
+  --bs-primary-rgb: 73, 28, 116;
+  --bs-secondary-rgb: 119,29, 107;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
@@ -11564,7 +11564,7 @@ html {
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+  background: -webkit-linear-gradient(315deg, #491c74 10%, #e21e80 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
